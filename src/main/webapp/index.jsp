@@ -1,5 +1,10 @@
-<html>
-<body>
-<h2>Hello jenkins!</h2>
-</body>
+<!DOCTYPE html> 
+<html> 
+   <head> 
+      <meta charset="UTF-8" /> 
+      <title>Static website</title> 
+   </head> 
+   <body> 
+      <div><h1>Hello!</h1></div> 
+   </body> 
 </html>
